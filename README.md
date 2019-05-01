@@ -5,9 +5,9 @@ Plantilla para el taller Ninja Project BBVA - 08/05/2019
 Descargar las fuentes : https://github.com/cristhiancaldas/plantilla-TallerNinja.git
 Y ejecutar el comando npm install.
 
-#AUTOR 
+# AUTOR 
 ```
 Cristhian Caldas Mendoza
 ```
-#License
+# License
 Gratuito
